@@ -1,0 +1,270 @@
+- date: 8/30
+  title: >
+    <strong>Introduction</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/1
+  title: >
+    <strong>Linear Algebra 1</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+
+- date: 9/6
+  title: >
+    <strong>Linear Algebra 2</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/8
+  title: >
+    <strong>Optimization</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+  
+- date: 9/13
+  title: >
+    <strong>Deterministic Representations</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/15
+  title: >
+    <strong>Data-Driven Representations</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/20
+  title: >
+    <strong>Classification and Metaclassifier</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/22
+  title: >
+    <strong>Face Detection</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/27
+  title: >
+    <strong>Non-Negative Matrix Factorization</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 9/29
+  title: >
+    <strong>Probability and Information Theory</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/4
+  title: >
+    <strong>Independent Component Analysis 1</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/6
+  title: >
+    <strong>Independent Component Analysis 2</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/11
+  title: >
+    <strong>Clustering</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/13
+  title: >
+    <strong>Dictionary Representations</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/18
+  title: >
+    <strong>No Class</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/20
+  title: >
+    <strong>No Class</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/25
+  title: >
+    <strong>Guest lecture: Compressive Sensing</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 10/27
+  title: >
+    <strong>Regression and Prediction</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/1
+  title: >
+    <strong>Linear Classifier</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/3
+  title: >
+    <strong>Expectation Maximization 1</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/8
+  title: >
+    <strong>Expectation Maximization 2</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/10
+  title: >
+    <strong>Factor Analysis</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/15
+  title: >
+    <strong>Supervised Representation</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/17
+  title: >
+    <strong>Hidden Markov Models 1</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/22
+  title: >
+    <strong>Hidden Markov Models 2</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/24
+  title: >
+    <strong>No Class</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 11/29
+  title: >
+    <strong>Non-Linear Dynamical Systems</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 12/1
+  title: >
+    <strong>Kalman Filtering</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+
+- date: 12/6
+  title: >
+    <strong>Kalman Filtering 2</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
+  
+- date: 12/8
+  title: >
+    <strong>Particle Filtering</strong>
+  topics:
+  slides: >
+    <strong>Slides</strong>
+  readings:
+  Homeworks:
