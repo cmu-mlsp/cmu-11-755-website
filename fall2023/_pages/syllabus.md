@@ -37,7 +37,7 @@ This course will be taught in person. However, in the event that the course is m
 
 **Canvas:** Students are asked to submit their project assignments through the website Canvas. This platform will be used for grading and to handle any request for re-grading. 
 
-[https://canvas.cmu.edu/courses/33772](https://canvas.cmu.edu/courses/33772)
+[https://canvas.cmu.edu/courses/34748](https://canvas.cmu.edu/courses/34748)
 
 ### Grades
 Mini quizzes: 24%
