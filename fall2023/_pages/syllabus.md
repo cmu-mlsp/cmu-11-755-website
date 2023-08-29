@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fall2023/syllabus/
+permalink: /syllabus/
 title: Syllabus
 nav: true
 ---
