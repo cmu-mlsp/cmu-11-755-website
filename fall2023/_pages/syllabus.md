@@ -18,11 +18,11 @@ It is imperative to your success in this course to have a solid grasp on linear 
 While it is not necessary to have a deep understanding of specific machine learning algorithms, it is always welcome. In a similar vein, this class will deal primarily with machine learning as it applies to signal processing. Therefore, any experience you have with signal processing is welcomed with a smile.
 
 ### Class Times & Locations
-Tuesday: 2:00 PM to 3:20 PM EST/EDT.
-Thursday: 2:00 PM to 3:20 PM EST/EDT.
+Tuesday: 2:00 PM to 3:20 PM EST/EDT. <br>
+Thursday: 2:00 PM to 3:20 PM EST/EDT. <br>
 Location (in person): Doherty Hall (DH) A302, at basement one.
 
-Zoom ID: 98758168075
+Zoom ID: 98758168075 <br>
 Passcode: 684222
 
 This course will be taught in person. However, in the event that the course is moved online due to covid, we will continue to deliver lectures via zoom. In the event that an instructor is unable to deliver a lecture in person, we will broadcast that lecture over zoom or, in extreme situations, expect you to view pre-recorded lectures from prior semesters. You will be notified through Piazza should any of these eventualities arise. The zoom details for this course are as below.
@@ -40,10 +40,10 @@ This course will be taught in person. However, in the event that the course is m
 [https://canvas.cmu.edu/courses/34748](https://canvas.cmu.edu/courses/34748)
 
 ### Grades
-Mini quizzes: 24%
-Homeworks: 50%
-Group project: 25%
-Class participation: 1%
+Mini quizzes: 24% <br>
+Homeworks: 50% <br>
+Group project: 25% <br>
+Class participation: 1% <br>
 
 We will have weekly quizzes that are released on Saturday 12:00 a.m. EST/EDT and due on Sunday night 11:59 p.m. EST/EDT of the same weekend, 48 hours you have in total. They are meant to test your knowledge of the previous week's material as well as provide you guidance on what you should be studying for the upcoming week. Ten multiple-choice questions will be included in each quiz.
 
