@@ -29,7 +29,7 @@ This course will be taught in person. However, in the event that the course is m
 
 **Website:** The main course website is online at:
 
-[https://cmu-mlsp.github.io/](https://cmu-mlsp.github.io/)
+[http://mlsp2023.cs.cmu.edu/](http://mlsp2023.cs.cmu.edu/)
 
 **Piazza:** We will be using Piazza for class communication and announcement. The system is highly catered to getting you help fast and efficiently from classmates and instructors. Rather than emailing questions to the teaching staff, you are encouraged to post your questions on Piazza. You can post privately to the instructor and TAs through the Piazza website.
 
