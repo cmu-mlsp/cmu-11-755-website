@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /fall2023/schedule/
+permalink: /schedule/
 title: Schedule
 nav: true
 ---
