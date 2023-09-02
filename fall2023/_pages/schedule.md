@@ -41,7 +41,7 @@ Exact topics and schedule subject to change, based on student interests and cour
         </ul>
     </td>
     <td>
-        {{ lecture.slides }} <br/>
+        {{ lecture.lectures }} <br/>
     </td>
     <td>
         {{ lecture.Homeworks }} <br/>
