@@ -91,25 +91,25 @@
 
 - date: 10/3
   title: >
-    <strong>Independent Component Analysis 1</strong>
+    <strong>Independent Component Analysis</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnamt3r75ne5l">Slides</a>
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnamt3r75ne5l">Slides</a>, <a href="https://youtu.be/We_KRjcHC3I">Video</a>
   readings:
   Homeworks:
 
 - date: 10/5
   title: >
-    <strong>Independent Component Analysis 2</strong>
+    <strong>Clustering</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnamt3r75ne5l">Slides</a>, <a href="https://youtu.be/JyaoldDkDvc">Video</a>
   readings:
   Homeworks:
 
 - date: 10/10
   title: >
-    <strong>Clustering</strong>
+    <strong>Dictionary Representations</strong>
   topics:
   lectures: >
     Slides
@@ -118,7 +118,7 @@
 
 - date: 10/12
   title: >
-    <strong>Dictionary Representations</strong>
+    <strong>Regression and Prediction</strong>
   topics:
   lectures: >
     Slides
@@ -145,7 +145,7 @@
 
 - date: 10/24
   title: >
-    <strong>Guest lecture: Compressive Sensing</strong>
+    <strong>Time series prediction</strong>
   topics:
   lectures: >
     Slides
@@ -154,7 +154,7 @@
 
 - date: 10/26
   title: >
-    <strong>Regression and Prediction</strong>
+    <strong>Compressive Sensing</strong>
   topics:
   lectures: >
     Slides
