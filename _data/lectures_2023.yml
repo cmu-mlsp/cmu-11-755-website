@@ -16,7 +16,6 @@
   readings:
   Homeworks:
 
-
 - date: 9/5
   title: >
     <strong>Linear Algebra 2</strong>
@@ -109,10 +108,10 @@
 
 - date: 10/10
   title: >
-    <strong>Dictionary Representations</strong>
+    <strong>Sparse and Overcomplete Representations</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnqugqgieh01vc">Slides</a>, <a href="https://youtu.be/We_KRjcHC3I">Video</a>
   readings:
   Homeworks:
 
@@ -121,7 +120,7 @@
     <strong>Regression and Prediction</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lnqugyrfxp729q">Slides</a>, <a href="https://youtu.be/We_KRjcHC3I">Video</a>
   readings:
   Homeworks:
 
