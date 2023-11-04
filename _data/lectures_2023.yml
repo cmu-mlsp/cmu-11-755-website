@@ -162,10 +162,10 @@
 
 - date: 10/31
   title: >
-    <strong>Linear Classifier</strong>
+    <strong>Linear Classifiers: SVM</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lojkw5b8w3njh">Slides</a>
   readings:
   Homeworks:
 
@@ -174,7 +174,7 @@
     <strong>Expectation Maximization 1</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/loji86oamkv76w">Slides</a> 
   readings:
   Homeworks:
 
