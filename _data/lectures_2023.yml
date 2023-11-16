@@ -183,7 +183,7 @@
     <strong>No Class</strong>
   topics:
   lectures: >
-    Slides
+    -
   readings:
   Homeworks:
 
@@ -192,7 +192,7 @@
     <strong>Expectation Maximization 2</strong>
   topics:
   lectures: >
-    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lotningne0i4m2">Slides</a>
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lotningne0i4m2">Slides</a>, <a href="https://www.youtube.com/watch?v=jKHztaOsliM">Video</a>
   readings:
   Homeworks:
 
@@ -201,7 +201,7 @@
     <strong>Factor Analysis</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7w9o5u9k57e">Slides</a>, <a href="https://www.youtube.com/watch?v=pgwdwIejAIw">Video</a>
   readings:
   Homeworks:
 
