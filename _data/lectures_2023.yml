@@ -210,7 +210,7 @@
     <strong>Supervised Representation</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7w9o5u9k57e">Slides</a>, <a href="https://www.youtube.com/watch?v=FqgA2_ghj5c">Video</a>
   readings:
   Homeworks:
 
@@ -219,7 +219,7 @@
     <strong>Hidden Markov Models 1</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z0s4qxg7cr">Slides</a>, <a href="https://www.youtube.com/watch?v=acvfy5GjT6k">Video</a>
   readings:
   Homeworks:
 
@@ -228,7 +228,7 @@
     <strong>No Class</strong>
   topics:
   lectures: >
-    Slides
+    -
   readings:
   Homeworks:
 
@@ -237,7 +237,7 @@
     <strong>Hidden Markov Models 2</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z0s4qxg7cr">Slides</a>, <a href="https://www.youtube.com/watch?v=WwjrHF_0bF8">Video</a>
   readings:
   Homeworks:
 
@@ -246,7 +246,7 @@
     <strong>Non-Linear Dynamical Systems</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z3mkzk17em">Slides</a>, <a href="https://www.youtube.com/watch?v=K2LI4ZiSpMg">Video</a>
   readings:
   Homeworks:
 
@@ -255,15 +255,15 @@
     <strong>Kalman Filtering 1</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z5bxhvo7js">Slides</a>, <a href="https://www.youtube.com/watch?v=1bdpkaIU4q4">Video</a>
   readings:
-  Homeworks:
+  Homeworks: 
   
 - date: 12/7
   title: >
     <strong>Kalman Filtering 2</strong>
   topics:
   lectures: >
-    Slides
+    <a href="https://piazza.com/class_profile/get_resource/lltl7rebh4r4p1/lly7z6vecp47l2">Slides</a>, <a href="https://youtu.be/vIaLlxd3SWM">Video</a>
   readings:
   Homeworks:
